@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "absensi_karyawan.vshost", "absensi_karyawan.vshost.exe", "{0269A02C-3D74-43FD-87F4-62BE5A1656EC}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\asus\Documents\Visual Studio 2010\Projects\absensi_karyawan\absensi_karyawan\bin\Debug\absensi_karyawan.vshost.exe
+		RemoteMachine = LAPTOP-V098N5MQ
+		StartingDirectory = C:\Users\asus\Documents\Visual Studio 2010\Projects\absensi_karyawan\absensi_karyawan\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0269A02C-3D74-43FD-87F4-62BE5A1656EC}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

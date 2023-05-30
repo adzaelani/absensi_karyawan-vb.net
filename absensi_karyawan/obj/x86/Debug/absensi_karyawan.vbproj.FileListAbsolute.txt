@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\bin\Debug\absensi_karyawan.exe
+c:\users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\bin\Debug\absensi_karyawan.pdb
+c:\users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\bin\Debug\absensi_karyawan.xml
+c:\users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.exe
+c:\users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.xml
+c:\users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\bin\Debug\absensi_karyawan.exe.config
+C:\Users\asus\Documents\Visual Studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.login.resources
+C:\Users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.Formabsen.resources
+C:\Users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.presence.resources
+C:\Users\asus\documents\visual studio 2010\Projects\absensi_karyawan\absensi_karyawan\obj\x86\Debug\absensi_karyawan.Form_option.resources
